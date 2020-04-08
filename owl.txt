@@ -1,4 +1,10 @@
 A wise old owl lived in an oak
 The more he saw the less he spoke
+he had brown feathers and wore a purple cloak
 
+<<<<<<< HEAD
 Evelina was here 
+=======
+"hello my name is david btw"
+he said, and quickly flew away
+>>>>>>> f3e269ac4ba50cf202c7476db39db1507a015134
